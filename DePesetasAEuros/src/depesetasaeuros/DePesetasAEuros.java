@@ -12,9 +12,6 @@ import java.util.Scanner;
  */
 public class DePesetasAEuros {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.print("¿Cuántas pesetas quieres convertir a euros?: ");
