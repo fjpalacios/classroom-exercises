@@ -19,7 +19,7 @@ cómo añadir archivos existentes creados con otro IDE al tuyo propio.
 ## Licencia
 Este repositorio sólo contiene algunas de las prácticas resueltas que he hecho
 durante mis estudios de programación; están licenciadas bajo la
-[licenciaMIT](LICENSE.txt) la cual está adjuntada y puedes leer, no obstante,
+[licencia MIT](LICENSE.txt) la cual está adjuntada y puedes leer, no obstante,
 y para resumir: puedes hacer con este código lo que te venga en gana siempre y
 cuando lo compartas bajo la misma licencia y me des crédito como autor original
 del código.
