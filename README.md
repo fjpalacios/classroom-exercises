@@ -16,6 +16,17 @@ File > New > Project form Existing Sources
 En general en todos es muy similar, así que si usas otro IDE seguro que encuentas
 cómo añadir archivos existentes creados con otro IDE al tuyo propio.
 
+## Organización de los temas
+### Modo consola
+* [Tema 2](Tema2/): Introducción a los tipos de datos.
+* [Tema 3](Tema3/): Introducción a los operadores.
+* [Tema 4](Tema4/): Introducción a las sentencias (condicionales y bucles).
+### Modo interfaz gráfica con Java Swing (JFrame form)
+* Tema 5: Introducción a la programación orientada a objetos.
+* Tema 6: Introducción a los arrays y a las colecciones.
+* Tema 7: Herencia en la programnación orientada a objetos.
+* …
+
 ## Licencia
 Este repositorio sólo contiene algunas de las prácticas resueltas que he hecho
 durante mis estudios de programación; están licenciadas bajo la
