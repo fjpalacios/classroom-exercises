@@ -21,8 +21,8 @@ cómo añadir archivos existentes creados con otro IDE al tuyo propio.
 * [Tema 2](Tema2/): Introducción a los tipos de datos.
 * [Tema 3](Tema3/): Introducción a los operadores.
 * [Tema 4](Tema4/): Introducción a las sentencias (condicionales y bucles).
-### Modo interfaz gráfica con Java Swing (JFrame form)
-* Tema 5: Introducción a la programación orientada a objetos.
+### Modo interfaz gráfica con Java Swing
+* [Tema 5](Tema5/): Introducción a la programación orientada a objetos.
 * Tema 6: Introducción a los arrays y a las colecciones.
 * Tema 7: Herencia en la programnación orientada a objetos.
 * …
